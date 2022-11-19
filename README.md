@@ -32,14 +32,18 @@
 
 <br />
 
-<img src="https://emojis.slackmojis.com/emojis/images/1479745458/1383/typescript.png?1479745458" width="28" />  | <img src="https://emojis.slackmojis.com/emojis/images/1507180554/2988/aws.png?1507180554" width="28" />  | <img src="https://emojis.slackmojis.com/emojis/images/1533724346/4435/firebase.png?1533724346" width="28" />  | <img src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444" width="28" /> 
-<br />
+
 
 <h3 align="left"> Skills </h3>
 <br />
 
-<img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /><img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" /><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /><b />
+<b />
+<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" />
+<b />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<br />
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laylajhb&show_icons=true&locale=en&layout=compact" alt="laylajhb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></p>
