@@ -19,5 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></p>
 
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+
 
