@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou a Layla Janaína Hissa Borges!</h1>
-<h3 align="center">Que bom que você passou por aqui 🌱</h3>
+<h3 align="center">Que bom que te ver por aqui 🌱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laylajhb&label=Profile%20views&color=0e75b6&style=flat" alt="laylajhb" /> </p>
 
