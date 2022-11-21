@@ -1,8 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=laylajhb&label=Profile%20views&color=0e75b6&style=flat" alt="laylajhb" /> </p>
 <br />
 
-### Updating...
-21/11/22
 
 <h1 align="center">Olá! Eu sou a Layla Janaína Hissa Borges!</h1>
 <h3 align="center">Que bom que te ver por aqui! Seja bem-vind@ 🌱</h3>
