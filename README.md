@@ -2,7 +2,7 @@
 <br />
 
 <h1 align="center">Olá! Eu sou a Layla Janaína Hissa Borges!</h1>
-<h3 align="center">Que bom que te ver por aqui! Seja bem-vindo@ 🌱</h3>
+<h3 align="center">Que bom que te ver por aqui! Seja bem-vind@ 🌱</h3>
 <br />
 <h7>Sou formada na área de Biotecnologia e hoje estou em transição de carreira! Vejo o desenvolvimento como uma grande fonte de possibilidades para solucionar problemas e impactar o mundo positivamente! </h7>
 <br />
