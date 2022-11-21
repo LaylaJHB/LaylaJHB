@@ -9,10 +9,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-
-
-#### Estudando...
+## Linguagens
 
 * Front-End
 
@@ -28,13 +25,13 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <br />
 
-* Não para por aí...
+## Estudando
 
 <br />
 
 
 
-<h3 align="left"> Softwares </h3>
+## Softwares 
 <br />
 
 <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /><b />
