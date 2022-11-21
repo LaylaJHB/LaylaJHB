@@ -29,7 +29,7 @@
 ## Estudando
 
 <br />
-
+<img src=" https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 
 
 ## Softwares 
@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whit" />
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
 <img src="https://aleen42.github.io/badges/src/zeplin.svg" />
-<img src=" " />
+
 <img src=" " />
 <img src=" " />
 <img src=" " />
