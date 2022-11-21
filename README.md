@@ -34,7 +34,7 @@
 
 
 
-<h3 align="left"> Skills </h3>
+<h3 align="left"> Softwares </h3>
 <br />
 
 <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" /><b />
