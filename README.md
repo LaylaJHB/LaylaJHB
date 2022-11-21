@@ -1,6 +1,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=laylajhb&label=Profile%20views&color=0e75b6&style=flat" alt="laylajhb" /> </p>
 <br />
 
+### Updating...
+21/11/22
+
 <h1 align="center">Olá! Eu sou a Layla Janaína Hissa Borges!</h1>
 <h3 align="center">Que bom que te ver por aqui! Seja bem-vind@ 🌱</h3>
 <br />
@@ -12,14 +15,14 @@
 ## Linguagens
 
 
-* Front-End
+<br /> 🖥️ Front-End
 
 <br />
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white " /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <br />
 
-* Back-End
+### 💻 Back-End
 
 <br />
 
@@ -53,6 +56,9 @@
 <img src=" https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white " />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D " />
+<img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white " />
+<img src=" " />
 <img src=" " />
 <img src=" " />
 
