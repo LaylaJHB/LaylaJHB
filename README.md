@@ -10,7 +10,7 @@
 
 
 
-## Linguagens
+## Tecnologias
 
 
 ### 🖥️ Front-End
