@@ -4,7 +4,8 @@
 <h7>Sou desenvolvedora Web Full-Stack e o que me encanta na programação são as diversas possibilidades para solucionar problemas e impactar o mundo positivamente!</h7>
 <br />
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laylajhb&show_icons=true&locale=en&layout=compact" alt="laylajhb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></p>
 
 ## Tecnologias
 
@@ -24,11 +25,6 @@
 <br />
 <br />
 
-## Estudando
-
-<br />
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/><img src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
 ## Softwares 
 <br />
@@ -63,8 +59,7 @@
 <b />
 <img src="https://aleen42.github.io/badges/src/zeplin.svg" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laylajhb&show_icons=true&locale=en&layout=compact" alt="laylajhb" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></p>
+
 
 
 
