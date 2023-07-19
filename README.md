@@ -1,11 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=laylajhb&label=Profile%20views&color=0e75b6&style=flat" alt="laylajhb" /> </p>
 <br />
 
-
-<h1 align="center">Olá! Eu sou a Layla Janaína Hissa Borges!</h1>
-<h3 align="center">Que bom que te ver por aqui! Seja bem-vind@ 🌱</h3>
-<br />
-<h7>Sou formada na área de Biotecnologia e hoje estou em transição de carreira! Possuo experiência em startup e pra mim o desenvolvimento é uma grande fonte de possibilidades para solucionar problemas e impactar o mundo positivamente! É isso que me fascina na programação! Atualmente faço o Bootcamp de Desenvolvimento em Web Full Stack</h7>
+<h7>Sou desenvolvedora Web Full-Stack e o que me encanta na programação são as diversas possibilidades para solucionar problemas e impactar o mundo positivamente!</h7>
 <br />
 
 
