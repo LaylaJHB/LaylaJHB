@@ -9,9 +9,6 @@
 <h7>Sou desenvolvedora Web Full-Stack e o que me encanta na programação são as diversas possibilidades para solucionar problemas e impactar o mundo positivamente!</h7>
 <br />
 
-<a href="https://www.linkedin.com/in/laylahissaborges/">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg"/>
-</a>
 
 ## Tecnologias
 
@@ -75,9 +72,15 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LaylaJHB&theme=default&utcOffset=8)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaylaJHB)](https://github.com/LaylaJHB/github-readme-stats)
+---
+## Find me elsewhere
 
 
-
-
+<a href="https://www.linkedin.com/in/laylahissaborges/">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg"/>
+</a>
+<a href="layla.hissa@gmail.com">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg"/>
+</a>
 
 
