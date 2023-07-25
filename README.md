@@ -61,6 +61,13 @@
 <b />
 <img src="https://aleen42.github.io/badges/src/zeplin.svg" />
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaylaJHB&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LaylaJHB&theme=default) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LaylaJHB&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LaylaJHB&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LaylaJHB&theme=default&utcOffset=8)
+
+
 
 
 
