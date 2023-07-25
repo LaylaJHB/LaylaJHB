@@ -1,3 +1,6 @@
+
+
+
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 <br><br>
 
@@ -67,6 +70,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LaylaJHB&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LaylaJHB&theme=default&utcOffset=8)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaylaJHB)](https://github.com/LaylaJHB/github-readme-stats)
 
 
 
