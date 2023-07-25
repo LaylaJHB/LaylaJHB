@@ -79,7 +79,7 @@
 <a href="https://www.linkedin.com/in/laylahissaborges/">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg"/>
 </a>
-<a href="http://outlook.com">
+<a href="http://www.gmail.com.br">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg"/>
 </a>
 
