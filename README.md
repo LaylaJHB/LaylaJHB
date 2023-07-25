@@ -1,9 +1,4 @@
 
-
-
-<img src="https://img.freepik.com/fotos-gratis/fundo-3d-da-mao-do-robo-vista-lateral-da-tecnologia-ai_53876-129789.jpg?w=996&t=st=1690313802~exp=1690314402~hmac=a545f113b2380fc67a1ad16929a04e0b8bcfbcc322a48fddfbecb76228a72351">
-<br><br>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=laylajhb&label=Profile%20views&color=0e75b6&style=flat" alt="laylajhb" /> </p>
 <br />
 <h7>Sou desenvolvedora Web Full-Stack e o que me encanta na programação são as diversas possibilidades para solucionar problemas e impactar o mundo positivamente!</h7>
