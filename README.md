@@ -7,6 +7,8 @@
 
 ## Tecnologias
 
+<img src="https://shields.braskam.com/v1/shields?name=git&format=circle&size=small" />
+
 
 ### 🖥️ Front-End
 
