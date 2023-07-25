@@ -6,9 +6,6 @@
 <h7>Sou desenvolvedora Web Full-Stack e o que me encanta na programação são as diversas possibilidades para solucionar problemas e impactar o mundo positivamente!</h7>
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laylajhb&show_icons=true&locale=en&layout=compact" alt="laylajhb" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></p>
-
 ## Tecnologias
 
 
@@ -60,6 +57,9 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white " />
 <b />
 <img src="https://aleen42.github.io/badges/src/zeplin.svg" />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laylajhb&show_icons=true&locale=en&layout=compact" alt="laylajhb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaylaJHB&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LaylaJHB&theme=default) 
