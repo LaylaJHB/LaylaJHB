@@ -1,4 +1,3 @@
-![image](https://github.com/LaylaJHB/LaylaJHB/assets/99913142/399ccedc-2529-4bda-a2bb-8cbd93586e50)
 
 
 
@@ -9,6 +8,10 @@
 <br />
 <h7>Sou desenvolvedora Web Full-Stack e o que me encanta na programação são as diversas possibilidades para solucionar problemas e impactar o mundo positivamente!</h7>
 <br />
+
+<a href="https://www.linkedin.com/in/laylahissaborges/">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg"/>
+</a>
 
 ## Tecnologias
 
