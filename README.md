@@ -7,7 +7,7 @@
 
 ## 🖥️ Tecnologias
 
-<img src="https://shields.braskam.com/v1/shields?name=git&format=circle&size=small" /> <img src="https://shields.braskam.com/v1/shields?name=html5&format=circle&size=small" /> <img src="https://shields.braskam.com/v1/shields?name=javascript&format=circle&size=small" /> <img src="https://shields.braskam.com/v1/shields?name=react&format=circle&size=small" /> <img src="https://shields.braskam.com/v1/shields?name=typescript&format=circle&size=small" /> <img src="https://shields.braskam.com/v1/shields?name=mysql&format=circle&size=small" /> <img src="https://shields.braskam.com/v1/shields?name=nodejs&format=circle&size=small" />
+<img src="https://shields.braskam.com/v1/shields?name=git&format=circle&size=small" width=30px /> <img src="https://shields.braskam.com/v1/shields?name=html5&format=circle&size=small"  width=30px /> <img src="https://shields.braskam.com/v1/shields?name=javascript&format=circle&size=small"  width=30px /> <img src="https://shields.braskam.com/v1/shields?name=react&format=circle&size=small"  width=30px /> <img src="https://shields.braskam.com/v1/shields?name=typescript&format=circle&size=small"  width=30px /> <img src="https://shields.braskam.com/v1/shields?name=mysql&format=circle&size=small"  width=30px /> <img src="https://shields.braskam.com/v1/shields?name=nodejs&format=circle&size=small"  width=30px />
 
 
 ## Softwares 
