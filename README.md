@@ -84,8 +84,35 @@ Hi, I'm Layla!
 <b />
 <img src="https://aleen42.github.io/badges/src/zeplin.svg" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laylajhb&show_icons=true&locale=en&layout=compact" alt="laylajhb" /></p>
+## 📄📜 Stats
+
+<table widht="50%">
+  <td>
+    
+  <tr>
+
+## Stats
+      
+      
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></p>
+     
+</tr>
+
+
+## Stats
+      
+      
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></p>
+     
+</td>
+  </tr>
+</table>
+<!--
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaylaJHB&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LaylaJHB&theme=default) 
@@ -97,6 +124,10 @@ Hi, I'm Layla!
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LaylaJHB&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 ---
 ## 🖥️ My Certifications
 - Full-Stack Developer
