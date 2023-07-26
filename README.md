@@ -12,7 +12,25 @@
 
 ## 🖥️ Tecnologias
 
-<img src="https://shields.braskam.com/v1/shields?name=git&format=circle&size=small" width=30px /> <img src="https://shields.braskam.com/v1/shields?name=html5&format=circle&size=small"  width=30px /> <img src="https://shields.braskam.com/v1/shields?name=javascript&format=circle&size=small"  width=30px /> <img src="https://shields.braskam.com/v1/shields?name=react&format=circle&size=small"  width=30px /> <img src="https://shields.braskam.com/v1/shields?name=typescript&format=circle&size=small"  width=30px /> <img src="https://shields.braskam.com/v1/shields?name=mysql&format=circle&size=small"  width=30px /> <img src="https://shields.braskam.com/v1/shields?name=nodejs&format=circle&size=small"  width=30px />
+<p align="left"> 
+      </a>  </a> <a href="https://www.w3schools.com/css/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5" width="40" height="40" />  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript" width="40" height="40" /> 
+  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react" width="40" height="40" /> </p>
+
+<br>
 
 
 ## Softwares 
@@ -62,6 +80,12 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LaylaJHB&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 
 ---
+## 🖥️ My Certifications
+- Full-Stack Developer
+
+## 🖥️ My Recommendations
+
+---
 ## Find me elsewhere
 
 
@@ -72,4 +96,4 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg"/>
 </a>
 
-
+![Profile_Banner_with_text_cutted_bottom](https://user-images.githubusercontent.com/57369924/132963646-67d4a093-5629-43d7-ae03-76bc48dbd063.png)
