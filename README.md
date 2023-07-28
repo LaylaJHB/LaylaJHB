@@ -371,9 +371,9 @@ Featured Repositories.
 
    
 <!-- BLOG-POST-LIST:START -->
-- [Take your GitHub profile from zero to hero with these 10 hacks](https://medium.com/@kaustav_g/take-your-github-profile-from-zero-to-hero-with-these-10-hacks-b6b5ffe3d065?source=rss-d1e37ddd01e4------2)
-- [How Open Source can be only thing you need to kickstart your journey as a software developer Part2](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part2-656cab3f4a82?source=rss-d1e37ddd01e4------2)
-- [How Open Source can be only thing you need to kickstart your journey as a  software developer Part1](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part1-5529c29e3a8b?source=rss-d1e37ddd01e4------2)
+- 
+- [
+
 <!-- BLOG-POST-LIST:END -->
 
   </td>
@@ -418,32 +418,10 @@ Featured Repositories.
 
 <br/>
 
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/kgan31/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:gkaustav57@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
-<a href = "https://discordapp.com/users/885073575839670302"><img width="100px" alt = "Discord" src = "https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/laylahissaborges/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:layla.hissa82@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
 
 </br>
-</br>
-
-
-<!--
-
-<div style = "display: flex; align-items: center; justify-content: center;">
- 
-  <div>
-    
-<a href="https://www.buymeacoffee.com/gkaustav" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 31px !important;width: 154px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; margin-left: 35%;" ></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://ko-fi.com/F1F1BRCNJ"><img src = "https://ko-fi.com/img/githubbutton_sm.svg"/></a>
-    
-  </div>
- </div>
-
--->
-
-<!--
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaustav202%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>  -->
-
-
-
 
 ## 📄📜 Stats
 
@@ -452,14 +430,6 @@ Featured Repositories.
     
   <tr>
 
-## Stats
-      
-      
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></p>
-     
-</tr>
 
 
 ## Stats
@@ -467,23 +437,10 @@ Featured Repositories.
       
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></p>
      
 </td>
   </tr>
 </table>
-<!--
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LaylaJHB&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LaylaJHB&theme=default) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LaylaJHB&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LaylaJHB&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LaylaJHB&theme=default&utcOffset=8)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaylaJHB)](https://github.com/LaylaJHB/github-readme-stats)
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LaylaJHB&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 
 
 ---
