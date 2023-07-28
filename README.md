@@ -146,8 +146,8 @@ Hi, I'm Layla!
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
- </br>
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></p>
+
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=laylajhb"/>
  </br>
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laylajhb&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
@@ -422,25 +422,6 @@ Featured Repositories.
 <a href="mailto:layla.hissa82@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
 
 </br>
-
-## 📄📜 Stats
-
-<table widht="50%">
-  <td>
-    
-  <tr>
-
-
-
-## Stats
-      
-      
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></p>
-
-     
-</td>
-  </tr>
-</table>
 
 
 ---
