@@ -339,8 +339,24 @@ Featured Repositories.
 
    
 <!-- BLOG-POST-LIST:START -->
-- 
-- [
+
+<details>
+  - <img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/103baa60-240f-456a-8aeb-7b4e9bbddea8"> </a>
+  <summary> <h4>  &nbsp; &nbsp; 📙📘 &nbsp;
+   👆 Click To Expand!
+    
+  </h4></summary>
+</details>
+
+
+  
+  <table>
+   <h2> Section Link </h3> 
+ <tr>
+ <td> <img src="git-metrics/r1l.svg"/> </td>
+ <td> <img src="git-metrics/r1r.svg"/> </td>
+ </tr>
+ </table>
 
 <!-- BLOG-POST-LIST:END -->
 
@@ -388,6 +404,7 @@ Featured Repositories.
 
 
 ---
+
 
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
