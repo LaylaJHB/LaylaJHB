@@ -335,7 +335,7 @@ Featured Repositories.
 
   <td width="75%" align = "left">
 
-   <h3>  &nbsp; &nbsp; 📙📘 &nbsp;Minhas recomendações  </h3>
+   <h3>  &nbsp; &nbsp; 📙📘 &nbsp;My Recommendations  </h3>
 
    
 <!-- BLOG-POST-LIST:START -->
@@ -343,6 +343,8 @@ Featured Repositories.
 - [
 
 <!-- BLOG-POST-LIST:END -->
+
+
 
   </td>
   
@@ -396,18 +398,9 @@ Featured Repositories.
 ## 🖥️ My Certifications
 - Full-Stack Developer
 
-## 🖥️ My Recommendations
+
 
 ---
-## Find me elsewhere
-
-
-<a href="https://www.linkedin.com/in/laylahissaborges/">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg"/>
-</a>
-<a href="http://www.gmail.com.br">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg"/>
-</a>
 
 <details>
 
