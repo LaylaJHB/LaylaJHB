@@ -399,15 +399,31 @@ Featured Repositories.
  </details>
  -->
 ## 🖥️ Courses and Certifications
-- Full Stack Web Developer
-- React.JS
-- JavaScript
-- SQL
-- CSS3
-- HTML5
+- Full Stack Web Developer - 1040 horas
+- React para Iniciantes - 25 horas
+- JavaScript - 40 horas
+- JavaScript Básico - 25 horas
+- SQL - 6 horas
+- SQL: A Liguagem dos Bancos de Dados - 10 horas
+- HTML e CSS: Desenvolvimento Web Básico - 25 horas
+- Lógica de Programação - 20 horas
 - Tomada de Decisões Guiada por Dados
 - Introdução à Ciência de Dados 2.0
+- Metodologias Ágeis na Prática: Lean, Scrum, Squads
+- Criatividade para Resolução de Problemas
+- Growth Hacking 1.0: agindo com pensamento de growth
+- Design Thinking 
 - Introdução aos Testes de Software: zerando o checklist do QA
+- Microsoft Office 365 - Conhecendo o Planner
+- Gestão da Diversidade nas Organizações
+- Liderança Inclusiva
+- Comunicação Empresarial
+- Técnicas de Comunicação Interpessoal
+- Inteligência Emocional
+- Desbravando o LinkedIn e Conectando Profissionais
+
+
+
 
 
 
