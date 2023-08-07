@@ -346,13 +346,6 @@ Featured Repositories.
 <img width="546" alt="image" src ="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/d6daeacd-0591-42e1-a5f5-78a4d7a443e6">
 <img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/1f9b388a-4678-4bfd-96f9-4d30db83a247">
 <img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/922af5ee-6d7b-4982-ba30-f1a3492889a0">
-
-
-
-
-
-
-  
  
 
 <!-- BLOG-POST-LIST:END -->
@@ -419,13 +412,7 @@ Featured Repositories.
 - Inteligência Emocional
 - Desbravando o LinkedIn e Conectando Profissionais
 
-
-
-
-
-
 ---
-
 
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
@@ -439,5 +426,5 @@ Featured Repositories.
 
 
 ---
-<summary> <h2> <a href="#">   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/> </a> 
+<h2> <a href="#">   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/> </a> 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=laylajhb&label=Profile%20views&color=0e75b6&style=flat" alt="laylajhb"/></p>
