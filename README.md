@@ -333,7 +333,7 @@ Featured Repositories.
   
 
 
-  <td width="75%" align = "left">
+  <td width="50%" align = "left">
 
    <h3>  &nbsp; &nbsp; 📙📘 &nbsp;My Recommendations  </h3>
 
@@ -349,22 +349,11 @@ Featured Repositories.
 
 
 
-</a>
-  <summary> <h4>  &nbsp; &nbsp; 📙📘 &nbsp;
-   👆 Click To Expand!
-    
-  </h4></summary>
-</details>
+
 
 
   
-  <table>
-   <h2> Section Link </h3> 
- <tr>
- <td> <img src="git-metrics/r1l.svg"/> </td>
- <td> <img src="git-metrics/r1r.svg"/> </td>
- </tr>
- </table>
+ 
 
 <!-- BLOG-POST-LIST:END -->
 
