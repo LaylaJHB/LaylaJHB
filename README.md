@@ -422,11 +422,5 @@ Featured Repositories.
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/layla-borges/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>&nbsp; &nbsp; <a href="https://wa.me/5511999772425?text=Layla%20Borges%20%7C%20Desenvolvedora%20Full-Stack"/><img width="115px" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:layla.hissa82@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> 
 
-
-
 </br>
 
-
----
-<h2> <a href="#">   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/> </a> 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=laylajhb&label=Profile%20views&color=0e75b6&style=flat" alt="laylajhb"/></p>
