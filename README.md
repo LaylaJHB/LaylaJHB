@@ -340,13 +340,13 @@ Featured Repositories.
    
 <!-- BLOG-POST-LIST:START -->
 
-<details>
-- <img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/103baa60-240f-456a-8aeb-7b4e9bbddea8">
-- <img width="546" alt="image" src="ttps://github.com/LaylaJHB/LaylaJHB/assets/99913142/a343c83d-9f46-413c-9e89-cd8b813856fd">
-- <img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/de034c25-3c30-4635-a853-e0a80be9e7ae">
-- <img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/1f9b388a-4678-4bfd-96f9-4d30db83a247">
-- <img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/922af5ee-6d7b-4982-ba30-f1a3492889a0">
-- <img width="546" alt="image" src ="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/d6daeacd-0591-42e1-a5f5-78a4d7a443e6">
+<img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/103baa60-240f-456a-8aeb-7b4e9bbddea8">
+<img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/85f7f0a0-bb34-4c1a-b144-6342bf787149">
+<img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/de034c25-3c30-4635-a853-e0a80be9e7ae">
+<img width="546" alt="image" src ="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/d6daeacd-0591-42e1-a5f5-78a4d7a443e6">
+<img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/1f9b388a-4678-4bfd-96f9-4d30db83a247">
+<img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/922af5ee-6d7b-4982-ba30-f1a3492889a0">
+
 
 
 </a>
