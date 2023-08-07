@@ -398,8 +398,16 @@ Featured Repositories.
   
  </details>
  -->
-## 🖥️ My Certifications
-- Full-Stack Developer
+## 🖥️ Courses and Certifications
+- Full Stack Web Developer
+- React.JS
+- JavaScript
+- SQL
+- CSS3
+- HTML5
+- Tomada de Decisões Guiada por Dados
+- Introdução à Ciência de Dados 2.0
+- Introdução aos Testes de Software: zerando o checklist do QA
 
 
 
