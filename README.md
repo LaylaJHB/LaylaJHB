@@ -422,6 +422,8 @@ Featured Repositories.
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/layla-borges/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:layla.hissa82@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
 
+<a href="https://wa.me/5511999772425?text=Layla%20Borges%20%7C%20Desenvolvedora%20Full-Stack"/><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>
+
 </br>
 
 
