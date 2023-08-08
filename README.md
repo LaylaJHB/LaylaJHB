@@ -397,6 +397,8 @@ Featured Repositories.
 - SQL: A Liguagem dos Bancos de Dados - 10 horas
 - HTML e CSS: Desenvolvimento Web Básico - 25 horas
 - Lógica de Programação - 20 horas
+    ![Layla Janaina Hissa Borges - Desenvolvedor Full Stack](https://github.com/LaylaJHB/LaylaJHB/assets/99913142/11895393-c475-4251-b133-737fe1526729)
+
 - Tomada de Decisões Guiada por Dados
 - Introdução à Ciência de Dados 2.0
 - Metodologias Ágeis na Prática: Lean, Scrum, Squads
