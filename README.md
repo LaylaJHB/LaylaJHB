@@ -9,11 +9,11 @@
 ## 📖 About me
 
 * 💻 I'm a full stack web developer
-* 🎨 
-* 📱 
+* 🎨 I’m currently working on my side projects
+* 📱 I’m currently learning clean code
 * 🎓 
-* 🌐 
-* 📺 
+* 🌐 I’m looking to collaborate on your open source projects
+* 📺 Pronouns: She/Her
 
 <p align="left">
   <a href=""><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
