@@ -97,13 +97,13 @@
 <div align="center">
 	<table width="50%">
 		<tr>
-			<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></td>
+			<td><img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></td>
 		</tr>
   		<tr>
-			<td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=laylajhb"/></td>
+			<td><img  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=laylajhb"/></td>
 		</tr>
   		<tr>
-    			<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laylajhb&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent"/></td>
+    			<td><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laylajhb&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent"/></td>
     		</tr>  
 	</table>
 	</div>
