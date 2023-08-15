@@ -91,7 +91,7 @@
 	</table>
 </div>
 </td>
-    <td width="40%">
+    <td>
   
 ## 📄📜 Stats
 <div align="center">
