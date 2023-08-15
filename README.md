@@ -4,6 +4,8 @@
 
 <p align="center">
   <a href="https://github.com/laylajhb"><img alt="views" title="Github views" src="/"/></a>
+	
+<img src="https://komarev.com/ghpvc/?username=laylajhb&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 </p>
 
 ## 📖 About me
@@ -169,6 +171,14 @@
 - Desbravando o LinkedIn e Conectando Profissionais
 
 ---
+<h2 align="center"><u>My Best Projects</u></h2>
+
+| Name                  | Description                                                |
+| ---------------------------------|--------------------------------------------------------------- |
+| _[Landing Page](https://https://github.com/LaylaJHB/landing-page-bank)_            | Landing Page             |
+| _[Pokédex](https://https://github.com/LaylaJHB/Pokedex)_                          | Pokedex     |
+| _[Rede Social Labook](https://https://github.com/LaylaJHB/Rede-Social-Labook)_                  | Rede Social             |
+
 
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
