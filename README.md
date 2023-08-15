@@ -93,45 +93,10 @@
       		</tr>
 	</table>
 
-<p></p>
-<b />
-
-<b />
-
-<b />
-</p>
-
-###
-
-<b />
-
-<b />
-
-
-<b />
-<img src=" https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<b />
-
-
-<br />
-
-###
-
-
-<b />
-
-<b />
-
-<b />
-
-
-<b />
-
 </td>
     <td width="50%">
   
 ## 📄📜 Stats
-
 
 <p align="center">
    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></p>
