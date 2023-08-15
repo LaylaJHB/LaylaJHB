@@ -11,9 +11,25 @@
 
 <h5>Sou desenvolvedora Web Full-Stack e o que me encanta na programação são as diversas possibilidades para solucionar problemas e impactar o mundo!</h5>
 <br />
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+
+<div>
+	<table width="100%" >
+		<tr>
+		<td width="60%">
+		<h3>dfdf</h3>
+			
+<li>Desenvolvedora Web Full Stack</li>
+<li>Telefone</li>
+<li>Endereço</li>
+<li>País</li>
+
+  <td><code><img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</td>
+      
+		</tr>
+
+	</table>
+
 
 <table width="100%" >
 
