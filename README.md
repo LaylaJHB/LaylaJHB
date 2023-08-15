@@ -89,11 +89,16 @@
 			<td><code><img width="100" height="25"  src="https://aleen42.github.io/badges/src/zeplin.svg" /></code></td>
       		</tr>
 	</table>
+</div>
 </td>
     <td width="50%">
   
 ## 📄📜 Stats
-
+<div align="center">
+	<table>
+		<tr>
+			<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></td>
+		</tr>
 <p align="center">
    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></p>
 
@@ -105,6 +110,10 @@
   </td>
  </tr>
 </table>
+</td>
+
+</div>
+
 
 </br>
 
