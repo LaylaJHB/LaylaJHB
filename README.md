@@ -95,7 +95,7 @@
   
 ## 📄📜 Stats
 <div align="center">
-	<table>
+	<table width="50%">
 		<tr>
 			<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></td>
 		</tr>
@@ -103,26 +103,25 @@
 			<td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=laylajhb"/></td>
 		</tr>
   		<tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laylajhb&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" /></td>
+    			<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laylajhb&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent"/></td>
     		</tr>  
-</table>
-</td>
+	</table>
+	</div>
+	</td>
+	</br>
+	</br>
 
-</div>
+
+<br/>
+<br/>
 
 
-</br>
-</br>
+<table  >
+	
 ## &nbsp; &nbsp; ✨ &nbsp;My Recommendations 
-<br/>
-<br/>
-  <table  >
- 	<tr>
+	
+ 	
   <td width="50%" align = "left">
-
-  
-
-
 <img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/103baa60-240f-456a-8aeb-7b4e9bbddea8">
 <img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/85f7f0a0-bb34-4c1a-b144-6342bf787149">
 <img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/de034c25-3c30-4635-a853-e0a80be9e7ae">
