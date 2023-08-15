@@ -171,14 +171,14 @@
 - Desbravando o LinkedIn e Conectando Profissionais
 
 ---
-<h2 align="center"><u>My Best Projects</u></h2>
+<h2 align="center"><u>My Projects</u></h2>
 
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
 | _[Landing Page](https://https://github.com/LaylaJHB/landing-page-bank)_            | Landing Page             |
 | _[Pokédex](https://https://github.com/LaylaJHB/Pokedex)_                          | Pokedex     |
 | _[Rede Social Labook](https://https://github.com/LaylaJHB/Rede-Social-Labook)_                  | Rede Social             |
-
+| _[LabEcommerce](https://https://https://github.com/future4code/Barros-labEcommerce-backend27)_                  |  Commerce            |
 
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
@@ -189,7 +189,3 @@
 <a href="mailto:layla.hissa82@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> 
 
 </br>
-
-[![HitCount](https://hits.dwyl.com/LaylaJHB/LaylaJHB/Readme.svg?style=flat-square)](http://hits.dwyl.com/LaylaJHB/LaylaJHB/Readme)
-
-
