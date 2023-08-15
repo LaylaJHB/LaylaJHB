@@ -11,7 +11,7 @@
 * 💻 I'm a full stack web developer
 * 🎨 I’m currently working on my side projects
 * 📱 I’m currently learning clean code
-* 🎓 
+* 🎓 How to reach me: layla.hissa82@gmail.com
 * 🌐 I’m looking to collaborate on your open source projects
 * 📺 Pronouns: She/Her
 
