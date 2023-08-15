@@ -15,15 +15,12 @@
 <div align="center">
 	<table width="100%" >
 		<tr >
-		<td width="60%">
-		<h3>About me</h3>
-			
-<li>Desenvolvedora Web Full Stack</li>
-
-
-  <td><img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></td>
-  </td>
-      	</tr>
+			<td width="50%">
+			<h3>About me</h3>
+			<li>Desenvolvedora Web Full Stack</li>
+			<td width="50%"><img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></td>
+  			</td>
+      		</tr>
 	</table>
  </div>
 
