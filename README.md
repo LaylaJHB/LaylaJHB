@@ -89,7 +89,6 @@
 			<td><code><img width="100" height="25"  src="https://aleen42.github.io/badges/src/zeplin.svg" /></code></td>
       		</tr>
 	</table>
-
 </td>
     <td width="50%">
   
