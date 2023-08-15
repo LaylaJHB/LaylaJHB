@@ -99,16 +99,12 @@
 		<tr>
 			<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></td>
 		</tr>
-<p align="center">
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></p>
-
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=laylajhb"/>
- </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laylajhb&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
-</p>
-     
-  </td>
- </tr>
+  		<tr>
+			<td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=laylajhb"/></td>
+		</tr>
+  		<tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laylajhb&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" /></td>
+    		</tr>  
 </table>
 </td>
 
@@ -116,7 +112,7 @@
 
 
 </br>
-
+</br>
 ## &nbsp; &nbsp; ✨ &nbsp;My Recommendations 
 <br/>
 <br/>
