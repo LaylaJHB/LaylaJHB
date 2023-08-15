@@ -97,21 +97,17 @@
 <div align="center">
 	<table>
 		<tr>
-			<td><img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" /></td>
+		<img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=laylajhb&show_icons=true&locale=en" alt="laylajhb" />			</tr>
+  		<tr>
+			<img  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=laylajhb"/>
 		</tr>
   		<tr>
-			<td><img  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=laylajhb"/></td>
-		</tr>
-  		<tr>
-    			<td><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laylajhb&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent"/></td>
+    		<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laylajhb&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent"/>
     		</tr>  
 	</table>
 	</div>
-</td>
-	</br>
-	</br>
-
-
+   </td>
+	
 <br/>
 <br/>
 
