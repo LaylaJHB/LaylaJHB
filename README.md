@@ -31,7 +31,7 @@
 <table width="100%" >
 
  <tr>
-    <td width="60%">
+    <td width="50%">
      
 ## 🛠️ Skills
 
@@ -132,7 +132,7 @@
 <b />
 
 </td>
-    <td width="40%">
+    <td width="50%">
   
 ## 📄📜 Stats
 
