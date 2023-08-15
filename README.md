@@ -16,7 +16,8 @@
 </br>
 </br>
 
-<div align="center">
+
+<div >
 	<table width="100%" >
 		<tr >
 			<td width="50%">
@@ -178,7 +179,7 @@
 ---
 
 
-## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
+## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 <br/>
 
