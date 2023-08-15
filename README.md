@@ -12,9 +12,9 @@
 <h5>Sou desenvolvedora Web Full-Stack e o que me encanta na programação são as diversas possibilidades para solucionar problemas e impactar o mundo!</h5>
 <br />
 
-<div>
+<div align="center">
 	<table width="100%" >
-		<tr>
+		<tr >
 		<td width="60%">
 		<h3>dfdf</h3>
 			
@@ -23,12 +23,11 @@
 <li>Endereço</li>
 <li>País</li>
 
-  <td><code><img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</td>
-      
-		</tr>
-
+  <td><img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></td>
+  </td>
+      	</tr>
 	</table>
+ </div>
 
 
 <table width="100%" >
@@ -105,25 +104,7 @@
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white " />
 <b />
-<b />
 
-
-#### 
-<br />
-<br />
-<br />
-<br />
-<br />
-
-
-
-
-
-
-
-
-
-     
 </td>
     <td>
   
@@ -142,269 +123,34 @@
  </tr>
 </table>
 
-
-<!--
-#### Cloud Infrastructures
-
-![Firebase](https://img.shields.io/badge/firebase-%23ED7A00.svg?style=flat&logo=firebase&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)&nbsp;
-
-
-#### Environments
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
-![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white)&nbsp;
-![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=flat&logo=spyder%20ide&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flate&logo=PyCharm&logoColor=white)&nbsp;
-![Replit](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)&nbsp;
-![R Studio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
--->
-
-
-<!--
-
-<br />
-
-<details>
-
-  <summary><h2> 📌🏴  Coding Profiles </h2></summary>
-
-</br>
-</br>
-
-<a href="#" ><img style="height:25px; margin:10%; position: absolute;float: left;" src = "https://img.shields.io/static/v1?message=Code%20Chef&logo=CodeChef&labelColor=brown&color=brown&logoColor=white&label=%20&style=plastic"/></a> &nbsp;&nbsp;&nbsp; &nbsp;<img style="height:25px" src = "https://img.shields.io/static/v1?message=Leet%20Code&logo=LeetCode&labelColor=05122A&color=05122A&logoColor=FFA116&label=%20&style=plastic"/>&nbsp;&nbsp;&nbsp;  &nbsp;<img style="height:25px" src = "https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&labelColor=black&color=black&logoColor=00EA64&label=%20&style=flat"/> &nbsp;&nbsp;&nbsp; &nbsp;<img style="height:26px" src = "https://img.shields.io/static/v1?message=Codeforces&logo=Codeforces&labelColor=red&color=red&logoColor=yellow&label=%20&style=plastic"/> &nbsp;&nbsp;&nbsp; &nbsp;<img style="height:25px" src = "https://img.shields.io/static/v1?message=Geeks%20For%20Geeks&logo=GeeksforGeeks&labelColor=white&color=lightgrey&logoColor=2F8D46&label=%20&style=plastic"/>  &nbsp;
-<a href = "#" > <img src = "https://img.shields.io/static/v1?message=Articles&logo=Medium&labelColor=000000&color=white&logoColor=white&label=Medium&style=plastic"/></a>
-
-
-</details>
-
--->
-
-</br>
-
-<!--
-
-<details>
-
-  <summary> <h3> Post Links </h3> </summary>
-
-  </br>
-
-  <a href = "#" > <img src = "https://img.shields.io/static/v1?message=QnA&logo=StackOverflow&labelColor=F58025&color=white&logoColor=white&label=Stack%20Overflow&style=plastic"/></a>
- 
-  
- <a href = "#" > <img src = "https://img.shields.io/static/v1?message=Communinty&logo=dev.to&labelColor=0A0A0A&color=white&logoColor=white&label=dev.to&style=plastic"/></a>
- 
- 
- <a href = "#" > <img src = "https://img.shields.io/static/v1?message=Blog%20Post&logo=GeeksforGeeks&labelColor=2F8D46&color=white&logoColor=white&label=gfg&style=plastic"/></a>
- 
- 
- <a href = "#" > <img src = "https://img.shields.io/static/v1?message=Articles&logo=Medium&labelColor=000000&color=white&logoColor=white&label=Medium&style=plastic"/></a>
-
-
-  
-</details>
-
--->
-
-
-
-<!-- 
-# Featured Repositories 🚀
-
-
-<img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=RealTime-TwitterDataAnalysis&theme=swift"/> &nbsp; <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=News-Accumulator&theme=buefy"/> &nbsp; <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=JS-DOM-Snippets&theme=vue"/>
-
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=IPL-Statistical-Analysis&theme=moltack&title_color=000000"/>
-
-<img width="30%" src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Gamer-Hub"/>
-
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Tech-Vision"/>
-
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=HomePal&theme=vue"/>
-
-<img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Directory-Tree-Generator&theme=apprentice"/>
- -->
-
-<!--
-
-## Banner
-
-## Update About
-
-## Metrics
-
-## Code Snippet Gif/ Anime
-
-## Resize
-
-## Pinned Repositories
-
-## Open Source Programs
-
-## Achievements Section
-
--->
-
-<!-- 
-Navigation Options  -->
-
-<!-- 
-Featured Repositories.
- -->
-
-
- 
-<!-- 
-
-<details> 
- <summary> <h2> Here are some highlights of my open source journey </h2> </summary>
- 
- 
- 
-<details>
-
-  <summary> <h2> <a href="#">   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>  </a> 
- 
-   👆 Click To Expand!! </h2> </summary>
-  
-  <table>
-   <h2> Section Link </h3> 
- <tr>
- <td> <img src="git-metrics/r1l.svg"/> </td>
- <td> <img src="git-metrics/r1r.svg"/> </td>
- </tr>
- </table>
-  
-</details>
-
- <details>
-
-  <summary> Open Source Work </summary>
-  
-   <table>
-     
-   <td><img src="git-metrics/r2.svg"/> </td>
-   <td><img src="git-metrics/r3.svg"/> </td>
-     
- 
- </table>
-  
-</details>
- 
- 
- <details>
-
-  <summary> Useful Repos and Important Code </summary>
-  
-   <table>
-     
-   <td><img src="git-metrics/r4l.svg"/> </td>
-   <td><img src="git-metrics/r4r.svg"/> </td>
-     
- 
- </table>
-  
-</details>
- 
-  <details>
-
-  <summary> Others's collaboration my repos </summary>
-  
-   <table>
-     
-  <tr>   
-     <img src="git-metrics/r5.svg"/> 
-    </tr>   
- 
- </table>
-  
-</details>
-
-</details>
- -->
- 
- 
-
-  
-<!-- ## Here are some highlights of my open source journey 
-
- ### - Activity Smmary and Overview
-
-## Here are some of my works
- -->
-
-</br>
-</br>
-
-
-
-
 </br>
 
   <table  >
- <tr>
-  
-
-
+ 	<tr>
   <td width="50%" align = "left">
 
    <h3>  &nbsp; &nbsp; 📙📘 &nbsp;My Recommendations  </h3>
 
-   
-<!-- BLOG-POST-LIST:START -->
 
 <img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/103baa60-240f-456a-8aeb-7b4e9bbddea8">
 <img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/85f7f0a0-bb34-4c1a-b144-6342bf787149">
 <img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/de034c25-3c30-4635-a853-e0a80be9e7ae">
-<img width="546" alt="image" src ="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/d6daeacd-0591-42e1-a5f5-78a4d7a443e6">
-<img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/1f9b388a-4678-4bfd-96f9-4d30db83a247">
-<img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/922af5ee-6d7b-4982-ba30-f1a3492889a0">
+
  
-
-<!-- BLOG-POST-LIST:END -->
-
-
-
   </td>
   
   <td width="600px">
-   
+	  <img width="546" alt="image" src ="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/d6daeacd-0591-42e1-a5f5-78a4d7a443e6">
+	<img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/1f9b388a-4678-4bfd-96f9-4d30db83a247">	
+	  <img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/922af5ee-6d7b-4982-ba30-f1a3492889a0">
   </td>
   
  </tr>
  </table>
  
- 
  </br>
 
 
- 
-<!-- 
-<details>
-  
-  <summary>  <h2> &nbsp;&nbsp; 🌟Profiles  </h2> </summary>
-  
-  </br>
-
-  <a href = "https://github.com/kaustav202/kaustav202/blob/main/fun.md"> <h3>🔸🎮 Lots of other cool stuffs, trivia and info about me </h3> </a>
-  
-  </br>
-  
-  <a href = "https://metrics.lecoq.io/about/kaustav202"><h3>🔸🚀  Checkout all my open source jorney and more metrics in this page </h3> </a>
-  
-  </br>
-  
-  <a href = "https://kaustav-port.web.app/"><h3>🔸🎴 My Portfolio Website</h3></a>
-  
-  </br>
-  </br>
-  
- </details>
- -->
 ## 🖥️ Courses and Certifications
 - Full Stack Web Developer - 1040 horas
 - React para Iniciantes - 25 horas
