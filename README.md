@@ -28,7 +28,7 @@
 <table width="100%" >
 
  <tr>
-    <td width="50%">
+    <td >
      
 ## 🛠️ Skills
 
@@ -107,7 +107,7 @@
     		</tr>  
 	</table>
 	</div>
-	</td>
+</td>
 	</br>
 	</br>
 
