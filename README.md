@@ -65,30 +65,31 @@
 		</tr>
 	</table>
 </div>
+<br/>
 
 #### Softwares
 
 <div align="center">
 	<table>
 		<tr>
-			<td><code><img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white"  /></code></td>
-			<td><code><img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" /></code></td>
-      <td><code><img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" /></code></td>
+			<td><code><img width="100" height="25" src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white"  /></code></td>
+			<td><code><img width="100" height="25" src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" /></code></td>
+      <td><code><img width="100" height="25" src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" /></code></td>
        		</tr>
   		<tr>
-			<td><img src="https://img.shields.io/badge/Integromat-2F8CBB.svg?style=for-the-badge&logo=Integromat&logoColor=white " /><code></code></td>
-			<td><code><img src="https://img.shields.io/badge/ClickUp-7B68EE.svg?style=for-the-badge&logo=ClickUp&logoColor=white " /></code></td>
-			<td><code><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whit" /</code></td>
+			<td><img width="100" height="25" src="https://img.shields.io/badge/Integromat-2F8CBB.svg?style=for-the-badge&logo=Integromat&logoColor=white " /><code></code></td>
+			<td><code><img width="100" height="25" src="https://img.shields.io/badge/ClickUp-7B68EE.svg?style=for-the-badge&logo=ClickUp&logoColor=white " /></code></td>
+			<td><code><img width="100" height="25" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whit" /</code></td>
  		</tr>
 		<tr>
-			<td><code><img src="https://img.shields.io/badge/Typeform-262627.svg?style=for-the-badge&logo=Typeform&logoColor=white " /></code></td>
-			<td><code><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /></code></td>
-			<td><code><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white " /></code></td>
+			<td><code><img width="100" height="25"  src="https://img.shields.io/badge/Typeform-262627.svg?style=for-the-badge&logo=Typeform&logoColor=white " /></code></td>
+			<td><code><img width="100" height="25"  src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /></code></td>
+			<td><code><img width="100" height="25"  src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white " /></code></td>
     		</tr>
   		<tr>
-			<td><img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white " /><code></code></td>
-			<td><code><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" /></code></td>
-			<td><code>><img src="https://aleen42.github.io/badges/src/zeplin.svg" /></code></td>
+			<td><img width="100" height="25" src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white " /><code></code></td>
+			<td><code><img width="100" height="25" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" /></code></td>
+			<td><code><img width="100" height="25"  src="https://aleen42.github.io/badges/src/zeplin.svg" /></code></td>
       		</tr>
 	</table>
 
