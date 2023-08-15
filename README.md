@@ -12,6 +12,10 @@
 <h5>Sou desenvolvedora Web Full-Stack e o que me encanta na programação são as diversas possibilidades para solucionar problemas e impactar o mundo!</h5>
 <br />
 
+## &nbsp; &nbsp; 👩‍💻 &nbsp;About me
+</br>
+</br>
+
 <div align="center">
 	<table width="100%" >
 		<tr >
@@ -23,6 +27,10 @@
       		</tr>
 	</table>
  </div>
+</br>
+</br> 
+
+## &nbsp; &nbsp; 👩‍💻 &nbsp;Skills
 
 
 <table width="100%" >
@@ -89,11 +97,14 @@
 			<td><code><img width="100" height="25"  src="https://aleen42.github.io/badges/src/zeplin.svg" /></code></td>
       		</tr>
 	</table>
-</div>
-</td>
+	</div>
+	</td>
     <td>
-  
+
 ## 📄📜 Stats
+</br>
+</br>
+</br>
 <div align="center">
 	<table>
 		<tr>
@@ -113,9 +124,12 @@
 
 
 <table  >
-	
+</br>
+</br>
+
 ## &nbsp; &nbsp; ✨ &nbsp;My Recommendations 
-	
+</br>
+</br>
  	
   <td width="50%" align = "left">
 <img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/103baa60-240f-456a-8aeb-7b4e9bbddea8">
@@ -173,6 +187,6 @@
 
 </br>
 
-  [![HitCount](https://hits.dwyl.com/LaylaJHB/LaylaJHB/Readme.svg?style=flat-square)](http://hits.dwyl.com/LaylaJHB/LaylaJHB/Readme)
+[![HitCount](https://hits.dwyl.com/LaylaJHB/LaylaJHB/Readme.svg?style=flat-square)](http://hits.dwyl.com/LaylaJHB/LaylaJHB/Readme)
 
 
