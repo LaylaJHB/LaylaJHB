@@ -66,11 +66,6 @@
 	</table>
 </div>
 
-
-<br>
-
-
-        
 #### Softwares
 
 <div align="center">
