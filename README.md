@@ -125,11 +125,14 @@
 
 </br>
 
+## &nbsp; &nbsp; ✨ &nbsp;My Recommendations 
+<br/>
+<br/>
   <table  >
  	<tr>
   <td width="50%" align = "left">
 
-   <h3>  &nbsp; &nbsp; 📙📘 &nbsp;My Recommendations  </h3>
+  
 
 
 <img width="546" alt="image" src="https://github.com/LaylaJHB/LaylaJHB/assets/99913142/103baa60-240f-456a-8aeb-7b4e9bbddea8">
