@@ -175,10 +175,10 @@
 
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
-| _[Landing Page](https://https://github.com/LaylaJHB/landing-page-bank)_            | Landing Page             |
-| _[Pokédex](https://https://github.com/LaylaJHB/Pokedex)_                          | Pokedex     |
-| _[Rede Social Labook](https://https://github.com/LaylaJHB/Rede-Social-Labook)_                  | Rede Social             |
-| _[LabEcommerce](https://https://https://github.com/future4code/Barros-labEcommerce-backend27)_                  |  Commerce            |
+| _[Landing Page](https://github.com/LaylaJHB/landing-page-bank)_            | Landing Page             |
+| _[Pokédex](https://github.com/LaylaJHB/Pokedex)_                          | Pokedex     |
+| _[Rede Social Labook](https://github.com/LaylaJHB/Rede-Social-Labook)_                  | Rede Social             |
+| _[LabEcommerce](https://github.com/future4code/Barros-labEcommerce-backend27)_                  |  Commerce            |
 
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
