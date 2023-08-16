@@ -178,7 +178,7 @@
 | _[Landing Page](https://github.com/LaylaJHB/landing-page-bank)_            | Landing Page             |
 | _[Pokédex](https://github.com/LaylaJHB/Pokedex)_                          | Pokedex     |
 | _[Rede Social Labook](https://github.com/LaylaJHB/Rede-Social-Labook)_                  | Rede Social             |
-| _[LabEcommerce](https://github.com/future4code/Barros-labEcommerce-backend27)_                  |  Commerce            |
+| _[MovieHouse-Back-end](https://github.com/LaylaJHB/MovieHouse-Back-end)_                  |  MovieHouse            |
 
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
