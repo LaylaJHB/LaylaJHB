@@ -2,11 +2,7 @@
 
 <h3 align="center">Hey there, I'm Layla - Developer Full Stack <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
-<p align="center">
-  <a href="https://github.com/laylajhb"><img alt="views" title="Github views" src="/"/></a>
 	
-<img src="https://komarev.com/ghpvc/?username=laylajhb&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-</p>
 
 ## 📖 About me
 
@@ -18,7 +14,6 @@
 * 📺 Pronouns: She/Her
 
 <p align="left">
-  <a href=""><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
   <a href="mailto:layla.hissa82@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> 
 </p>
 
