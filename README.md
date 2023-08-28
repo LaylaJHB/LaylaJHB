@@ -5,6 +5,7 @@
 <p align="center">
 	<img src="https://img.shields.io/github/followers/LaylaJHB?style=social" /> <img src="https://img.shields.io/github/stars/LaylaJHB?style=social" /> <img src="https://visitor-badge.laobi.icu/badge?page_id=LaylaJHB.repoName" /> <img src="https://komarev.com/ghpvc/?username=LaylaJHB" alt="LaylaJHB" />
 </p>
+</br>
 
 ## 📖 About me
 
