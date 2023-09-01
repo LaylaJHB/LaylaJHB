@@ -16,8 +16,9 @@
 * 🌐 I’m looking to collaborate on your open source projects
 * 📺 Pronouns: She/Her
 
+</br>
 <p align="left">
-  <a href="mailto:layla.hissa82@gmail.com"><img width="70px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;<a href="https://www.linkedin.com/in/laylahissaborges/"><img width="90px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>&nbsp; <a href="https://wa.me/5511999772425?text=Layla%20Borges%20%7C%20Desenvolvedora%20Full-Stack"/><img width="100px" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> &nbsp;&nbsp;&nbsp; 
+&nbsp&nbsp&nbsp&nbsp;&nbsp&nbsp&nbsp; <a href="mailto:layla.hissa82@gmail.com"><img width="70px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;<a href="https://www.linkedin.com/in/laylahissaborges/"><img width="90px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>&nbsp; <a href="https://wa.me/5511999772425?text=Layla%20Borges%20%7C%20Desenvolvedora%20Full-Stack"/><img width="100px" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> &nbsp;&nbsp;&nbsp; 
 </p>
 
 </br>
