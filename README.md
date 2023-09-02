@@ -172,13 +172,13 @@
 ---
 <h2 align="center"><u>My Projects</u></h2>
 
-| Name                  | Description                                                |
-| ---------------------------------|--------------------------------------------------------------- |
-| _[Landing Page](https://github.com/LaylaJHB/landing-page-bank)_            | Landing Page             |
-| _[Pokédex](https://github.com/LaylaJHB/Pokedex)_                          | Pokedex     |
-| _[Rede Social Labook](https://github.com/LaylaJHB/Rede-Social-Labook)_                  | Rede Social             |
-| _[MovieHouse-Back-end](https://github.com/LaylaJHB/MovieHouse-Back-end)_                  |  MovieHouse            |
-
+| Name                  | Description                                                | Stack |
+| ---------------------------------|--------------------------------------- |--------------- |
+| _[Landing Page](https://github.com/LaylaJHB/landing-page-bank)_  | Landing Page   | Front-end |
+| _[Pokédex](https://github.com/LaylaJHB/Pokedex)_                   | Pokedex     | Front-end |
+| _[Rede Social Labook](https://github.com/LaylaJHB/Rede-Social-Labook)_      | Rede Social   | Back-end |
+| _[MovieHouse-Back-end](https://github.com/LaylaJHB/MovieHouse-Back-end)_ |  Filmoteca   | Back-end |
+| _[To Do List](https://github.com/LaylaJHB/To-Do-List_Backend-Node.Js_Desafio)_ | Sistema de Gerenciamento de Tarefas             | Back-end |
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
