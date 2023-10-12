@@ -147,6 +147,7 @@
 
 ## 🖥️ Courses and Certifications
 - Full Stack Web Developer - 1040 horas
+- Arquitetura de Software: Introdução aos Padrões de Projeto
 - React para Iniciantes - 25 horas
 - JavaScript - 40 horas
 - JavaScript Básico - 25 horas
