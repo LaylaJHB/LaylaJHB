@@ -171,7 +171,7 @@
 - Desbravando o LinkedIn e Conectando Profissionais
 
 ---
-<h2 align="center"><u>My Projects</u></h2>
+<h2 align="center"><u>My on side projects</u></h2>
 
 | Name                  | Description                                                | Stack |
 | ---------------------------------|--------------------------------------- |--------------- |
