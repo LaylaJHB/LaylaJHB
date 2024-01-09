@@ -14,7 +14,6 @@
 * 📱 I’m currently learning clean code
 * 🎓 How to reach me: <a href="https://wa.me/5511999772425?text=Layla%20Borges%20%7C%20Desenvolvedora%20Full-Stack"/>WhatsApp
 
-* 🌐 I’m looking to collaborate on your open source projects
 * 📺 Pronouns: She/Her
 
 
