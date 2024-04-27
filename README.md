@@ -146,7 +146,8 @@
 
 
 ## 🖥️ Courses and Certifications
-- Full Stack Web Developer - 1040 horas
+- Bootcamp Full Stack Web Developer - 1040 horas
+- Lógica de Programação - Trybe
 - Arquitetura de Software: Introdução aos Padrões de Projeto
 - React para Iniciantes - 25 horas
 - JavaScript - 40 horas
