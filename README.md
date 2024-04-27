@@ -102,13 +102,14 @@
 </br>
 <div align="center">
 	<table>
+		<a href="https://wakatime.com/badge/user/018cf01b-84f7-41b5-9098-a42a374f534b/project/018cf390-dfd7-4a34-a9e9-d9463759ab64"><img src="https://wakatime.com/badge/user/018cf01b-84f7-41b5-9098-a42a374f534b/project/018cf390-dfd7-4a34-a9e9-d9463759ab64.svg" alt="wakatime"></a>
 		<tr><img width="400" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laylajhb&theme=nord_dark" alt="laylajhb" /></tr>
 		</br></br>
 		<tr><img width="400" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=laylajhb&theme=github" alt="laylajhb" /></tr>	
 		</br></br>
 		<tr><img width="400" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laylajhb&theme=cobalt"" alt="laylajhb" /></tr>	
 		</br></br>
-  		<tr><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laylajhb&&theme=merko"/></tr>  
+		<a href="https://wakatime.com"><img width="400" src="https://wakatime.com/share/@laylaborges/967b2e12-bd5b-40e6-aab3-452c207c9d8b.png" /></a>
 	</table>
 	</div>
    </td>
