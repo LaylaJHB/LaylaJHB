@@ -61,6 +61,7 @@
 		</tr>
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code></td>
+			<td><code><img width="50" height="10" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ElasticSearch" title="ElasticSearch"/></code></td>
 		</tr>
 	</table>
 </div>
