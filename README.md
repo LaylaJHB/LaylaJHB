@@ -102,13 +102,13 @@
 </br>
 <div align="center">
 	<table>
-		<tr><img width="400" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laylajhb&theme=github" alt="laylajhb" /></tr>
+		<tr><img width="400" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laylajhb&theme=nord_dark" alt="laylajhb" /></tr>
 		</br></br>
 		<tr><img width="400" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=laylajhb&theme=github" alt="laylajhb" /></tr>	
 		</br></br>
-		<tr><img width="400" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laylajhb" alt="laylajhb" /></tr>	
+		<tr><img width="400" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laylajhb&theme=cobalt"" alt="laylajhb" /></tr>	
 		</br></br>
-  		<tr><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laylajhb&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent"/></tr>  
+  		<tr><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laylajhb&&theme=merko"/></tr>  
 	</table>
 	</div>
    </td>
