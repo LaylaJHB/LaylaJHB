@@ -110,10 +110,10 @@
 		<tr><img width="400" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laylajhb&theme=cobalt"" alt="laylajhb" /></tr>	
 		</br></br>
 		<a href="https://wakatime.com"><img width="400" src="https://wakatime.com/share/@laylaborges/967b2e12-bd5b-40e6-aab3-452c207c9d8b.png" /></a>
+		<tr align="center"><a href="https://github.com/laylaJHB/github-profile-trophy"><img width="100%" height="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=laylaJHB&rank=SSS,SS,S,AAA,AA,A,B,SECRET" alt="LaylaBorges" /></a></tr>
 	</table>
 	</div>
-   </td>
-	
+   </td>	
 <br/>
 <br/>
 
@@ -191,3 +191,4 @@
 <a href="mailto:layla.hissa82@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> 
 
 </br>
+		
