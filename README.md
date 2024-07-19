@@ -4,6 +4,10 @@
 
 <p align="center">
 	<img src="https://img.shields.io/github/followers/LaylaJHB?style=social" /> <img src="https://img.shields.io/github/stars/LaylaJHB?style=social" /> <img src="https://visitor-badge.laobi.icu/badge?page_id=LaylaJHB.repoName" /> <img src="https://komarev.com/ghpvc/?username=LaylaJHB" alt="LaylaJHB" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=LaylaJHB.visitor-badge&left_text=MyPageVisitors" alt="Visit Counter" /> 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=LaylaJHB.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors"
+
+
 </p>
 </br>
 
@@ -15,7 +19,6 @@
 * 🎓 How to reach me: <a href="https://wa.me/5511999772425?text=Layla%20Borges%20%7C%20Desenvolvedora%20Full-Stack"/>WhatsApp
 
 * 📺 Pronouns: She/Her
-
 
 <p align="left">
 &nbsp&nbsp; <a href="mailto:layla.hissa82@gmail.com"><img width="60px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;<a href="https://www.linkedin.com/in/laylahissaborges/"><img width="80px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>&nbsp; <a href="https://wa.me/5511999772425?text=Layla%20Borges%20%7C%20Desenvolvedora%20Full-Stack"/><img width="90px" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> &nbsp;&nbsp;&nbsp; 
