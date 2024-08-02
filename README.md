@@ -4,7 +4,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/github/followers/LaylaJHB?style=social" /> <img src="https://img.shields.io/github/last-commit/LaylaJHB/LaylaJHB"/> <img src="https://visitor-badge.laobi.icu/badge?page_id=LaylaJHB.repoName" /> <img src="https://komarev.com/ghpvc/?username=LaylaJHB" alt="LaylaJHB" />
-<img src="https://img.shields.io/github/created-at/LaylaJHB/LaylaJHB"/> <img src="https://img.shields.io/github/created-at/LaylaJHB/LaylaJHB"/> <a href="https://portifolio2024-bay.vercel.app"><img width="90px" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white")](https://portifolio2024-bay.vercel.app)
+<img src="https://img.shields.io/github/created-at/LaylaJHB/LaylaJHB"/> <a href="https://portifolio2024-bay.vercel.app"><img width="90px" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white")](https://portifolio2024-bay.vercel.app)
 
 
 </p>
