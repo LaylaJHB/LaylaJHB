@@ -3,9 +3,8 @@
 <h3 align="center">Hey there, I'm Layla - Developer Full Stack <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
-	<img src="https://img.shields.io/github/followers/LaylaJHB?style=social" /> <img src="https://img.shields.io/github/stars/LaylaJHB?style=social" /> <img src="https://visitor-badge.laobi.icu/badge?page_id=LaylaJHB.repoName" /> <img src="https://komarev.com/ghpvc/?username=LaylaJHB" alt="LaylaJHB" />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=LaylaJHB.visitor-badge&left_text=MyPageVisitors" alt="Visit Counter" /> 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=LaylaJHB.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors"
+<img src="https://img.shields.io/github/followers/LaylaJHB?style=social" /> <img src="https://img.shields.io/github/last-commit/LaylaJHB/LaylaJHB"/> <img src="https://visitor-badge.laobi.icu/badge?page_id=LaylaJHB.repoName" /> <img src="https://komarev.com/ghpvc/?username=LaylaJHB" alt="LaylaJHB" />
+<img src="https://img.shields.io/github/created-at/LaylaJHB/LaylaJHB"/> <img src="https://img.shields.io/github/created-at/LaylaJHB/LaylaJHB"/> <img width="90px" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white")](https://portifolio2024-bay.vercel.app)
 
 
 </p>
