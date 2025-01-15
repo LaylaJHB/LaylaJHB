@@ -206,10 +206,11 @@
 <h2 align="center"><u>My portfolio</u></h2>
 
 <h2 align="center">
-  <a href="https://portifolio2024-bay.vercel.app/">
+  <a href="https://portifolio2024-bay.vercel.app/" target="_blank">
     <img width="600" alt="image" src="https://github.com/user-attachments/assets/a016bec3-8418-4c55-ba10-31301a4c86eb"/>
   </a>
 </h2>
+
 
 <br/>
 
