@@ -185,7 +185,7 @@
 
 | Data                | Tempo           |    Empresa  |   Função              | Total de PRs  | Total de Commits |  
 | --------------------|-----------------|-------------|-----------------------|---------------|-----------------|
-| 09/23 - Atualmente  | 1 ano e 5 meses |  Triibo     | Desenvolvedor Backend | 200           | 720
+| 09/23 - Atualmente  | 1 ano e 5 meses |  <img width="24" alt="image" src="https://github.com/user-attachments/assets/6d7b274d-198f-49ae-9f44-91efe6c3e162" />   Triibo | Desenvolvedor Backend | 200  | 720
 
 
 <br/>
