@@ -201,6 +201,8 @@
 <br/>
 
 ---
+<br/>
+
 <h2 align="center"><u>My portfolio</u></h2>
 
 
@@ -210,6 +212,8 @@
 <br/>
 
 ---
+<br/>
+
 <h2 align="center"><u>My on side projects</u></h2>
 
 | Name                  | Description                                                | Stack |
