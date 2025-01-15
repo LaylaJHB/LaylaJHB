@@ -201,6 +201,15 @@
 <br/>
 
 ---
+<h2 align="center"><u>My portfolio</u></h2>
+
+
+<h2 align="center"> <img width="600" alt="image" src="https://github.com/user-attachments/assets/a016bec3-8418-4c55-ba10-31301a4c86eb" /> 
+
+
+<br/>
+
+---
 <h2 align="center"><u>My on side projects</u></h2>
 
 | Name                  | Description                                                | Stack |
