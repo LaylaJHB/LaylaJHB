@@ -227,6 +227,8 @@
 | _[Rede Social Labook](https://github.com/LaylaJHB/Rede-Social-Labook)_      | Rede Social   | 🔵Back-end |
 | _[Movie House](https://github.com/LaylaJHB/MovieHouse-Back-end)_ |  Filmoteca   | 🔵 Back-end |
 | _[To Do List](https://github.com/LaylaJHB/To-Do-List_Backend-Node.Js_Desafio)_ | Sistema de Gerenciamento de Tarefas             | 🔵 Back-end |
+| _[BlueTech Solutions](https://github.com/LaylaJHB/services)_                   | BlueTech Solutions     | 🟢 Front-end + 🔵 Back-end |
+
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
