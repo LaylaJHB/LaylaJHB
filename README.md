@@ -183,9 +183,9 @@
 
 <br/>
 
-|  Empresa  | Data  |  Tempo  | Função | Total de PRs  | Total de Commits |  
-| ----------|-------|---------|--------|---------------|-----------------|
-| <img width="24" alt="image" src="https://github.com/user-attachments/assets/70cd90eb-14d2-41e7-960e-a81c734c8428" /> Triibo | 09/23 - Atualmente | 1 ano e 5 meses | Desenvolvedor Backend | 200  | 720
+|  Empresa  | Data  |  Tempo  | Função | Total de PRs  | Total de Commits | Total de Tarefas  |
+| ----------|-------|---------|--------|---------------|-----------------| -----------------|
+| <img width="24" alt="image" src="https://github.com/user-attachments/assets/70cd90eb-14d2-41e7-960e-a81c734c8428" /> Triibo | 09/23 - Atualmente | 1 ano e 6 meses | Desenvolvedor Backend | +200  | +720 | +70 |
 
 
 
@@ -220,14 +220,15 @@
 
 <h2 align="center"><u>My on side projects</u></h2>
 
-| Name                  | Description                                                | Stack |
-| ---------------------------------|--------------------------------------- |--------------- |
-| _[Landing Page](https://github.com/LaylaJHB/landing-page-bank)_  | Landing Page   | 🟢 Front-end |
-| _[Pokédex](https://github.com/LaylaJHB/Pokedex)_                   | Pokedex     | 🟢 Front-end |
-| _[Rede Social Labook](https://github.com/LaylaJHB/Rede-Social-Labook)_      | Rede Social   | 🔵Back-end |
-| _[Movie House](https://github.com/LaylaJHB/MovieHouse-Back-end)_ |  Filmoteca   | 🔵 Back-end |
-| _[To Do List](https://github.com/LaylaJHB/To-Do-List_Backend-Node.Js_Desafio)_ | Sistema de Gerenciamento de Tarefas             | 🔵 Back-end |
-| _[BlueTech Solutions](https://github.com/LaylaJHB/services)_                   | BlueTech Solutions     | 🟢 Front-end + 🔵 Back-end |
+| Name                  | Description                                                | Stack |  Banco e Dados | Status |
+| ---------------------------------|--------------------------------------- |--------------- | --------------- | --------------- |
+| _[Landing Page](https://github.com/LaylaJHB/landing-page-bank)_  | Landing Page   | 🟢 Front-end   | |  |
+| _[Pokédex](https://github.com/LaylaJHB/Pokedex)_                   | Pokedex     | 🟢 Front-end | |  |
+| _[Rede Social Labook](https://github.com/LaylaJHB/Rede-Social-Labook)_      | Rede Social   | 🔵Back-end | MySQL |  |
+| _[Movie House](https://github.com/LaylaJHB/MovieHouse-Back-end)_ |  Filmoteca   | 🔵 Back-end | MySQL |  |
+| _[To Do List](https://github.com/LaylaJHB/To-Do-List_Backend-Node.Js_Desafio)_ | Sistema de Gerenciamento de Tarefas             | 🔵 Back-end |  MySQL |  |
+| _[BlueTech Solutions](https://github.com/LaylaJHB/services)_                   | BlueTech Solutions     | 🟠 FullStack | Firestore e Firebase |   Integrando Backend |
+| _[My Store](https://github.com/LaylaJHB/products)_                   | My Store    | 🟠 FullStack  | Firestore e Firebase | Integrando Backend    | 
 
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
