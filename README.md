@@ -185,7 +185,7 @@
 
 |  Empresa  | Data  |  Tempo  | Função | Total de PRs  | Total de Commits | Total de Tarefas  |
 | ----------|-------|---------|--------|---------------|-----------------| -----------------|
-| <img width="24" alt="image" src="https://github.com/user-attachments/assets/70cd90eb-14d2-41e7-960e-a81c734c8428" /> Triibo | 09/23 - 05/2025 | 1 ano e 6 meses | Desenvolvedor Backend | +200  | +720 | +70 |
+| <img width="24" alt="image" src="https://github.com/user-attachments/assets/70cd90eb-14d2-41e7-960e-a81c734c8428" /> Triibo | 09/23 - 05/2025 | 1 ano e 9 meses | Desenvolvedor Backend | +200  | +720 | +70 |
 
 
 
